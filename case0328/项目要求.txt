@@ -1,0 +1,2 @@
+爬http://www.pptstore.net/获取封面
+下载的封面保存地址：C:\Users\子林\Documents\Case-ppt\Creative material
